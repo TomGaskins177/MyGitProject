@@ -8,18 +8,18 @@ The goal of this project is to develop a Python-based Student Grade Manager that
 - Created GitHub repository
 - Designed project structure
 - Implemented main.py
-- Managed pull requests and merging
-- Implemented Letter grade assignment in grade_calculator.py
+  - Managed pull requests and merging
+  - Implemented Letter grade assignment in grade_calculator.py
 
 ### Member 2 – Mathew Evans
 - Developed grade_calculator.py
-- Implemented grade calculation logic:
-- Average calculation
-- Highest and lowest grade
+- Implemented grade calculation logic:  
+  - Average calculation
+  - Highest and lowest grade
 
 ### Member 3 – Brandi Johnson
 - Developed file_handler.py
 - Implemented:
-- File saving
-- File loading
-- Input validation
+  - File saving
+  - File loading
+  - Input validation
